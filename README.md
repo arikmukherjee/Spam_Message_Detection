@@ -116,3 +116,18 @@ The trained model is loaded automatically when the app runs.
 
 ## 👤 Developer
 **Arik Mukherjee**
+
+### 📬 Contact
+Here are my contact and profile links with badges:
+
+
+[![Email](https://img.shields.io/badge/Email-arikmukherjee.edu%40gmail.com-red?style=for-the-badge)](mailto:arikmukherjee3@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arik%20Mukherjee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arikmukherjee)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-arikmukherjee-black?style=for-the-badge&logo=github)](https://github.com/arikmukherjee)
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-Arik%20Mukherjee-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@arikmukherjee)
