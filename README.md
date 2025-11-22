@@ -121,7 +121,7 @@ The trained model is loaded automatically when the app runs.
 Here are my contact and profile links with badges:
 
 
-[![Email](https://img.shields.io/badge/Email-arikmukherjee.edu%40gmail.com-red?style=for-the-badge)](mailto:arikmukherjee3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arikmukherjee3%40gmail.com-red?style=for-the-badge)](mailto:arikmukherjee3@gmail.com)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arik%20Mukherjee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arikmukherjee)
