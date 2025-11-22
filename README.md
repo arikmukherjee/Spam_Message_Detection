@@ -3,6 +3,8 @@
 A complete **Django + Machine Learning** project to classify emails as **Spam** or **Not Spam** using an ML model and a simple web interface.
 
 ---
+## 📸 Output Screenshot
+<img width="1365" height="767" alt="Screenshot 2025-11-21 201142" src="https://github.com/user-attachments/assets/14215487-83a6-43c9-883d-c65403304bb8" />
 
 ## 🚀 Overview
 This project provides a functional spam detection system built with:
